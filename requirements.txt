@@ -10,7 +10,7 @@ Faker==2.0.1
 Flask==1.1.1
 guess-my-x==0.1
 gunicorn==19.9.0
-ipython==7.4.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 itsdangerous==1.1.0
 jedi==0.13.3
